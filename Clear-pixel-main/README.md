@@ -36,14 +36,13 @@
    7. doenv
    8. cloudinary and etc..
 ## Author :
-   Saykat Bhakta
+   Samim Mistry
    <br>
-   Email: saykatbhakta05@gmail.com
+   Email: samimmistry.it@gamil.com
    <br>
-   Linkedin : https://www.linkedin.com/in/saykatbhakta/
 
 ## Website Link :
 url: https://image-denoising-nlme.onrender.com/homes
 
 
-### Thanks for visit... 😊😊😊
+### Thanks for visit... 😊
